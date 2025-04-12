@@ -12,4 +12,4 @@ My name is Daria. I was born 28 years ago. I make things, I break things.
 - Getting to know this world I'm living in.
 - Thinking things.
 - Complaining.
-- [Compiling a list of great pick up lines that work 100%](https://calcknight.netlify.app/very-important-phrases.html).
+- Compiling a list of [Great Pick Up Lines That Work 100%].
